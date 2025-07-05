@@ -1,4 +1,3 @@
-// src/routes/update-access-count-link.ts
 import { db } from '@/infra/db'
 import { links } from '@/infra/db/schemas/links'
 import { eq, sql } from 'drizzle-orm'
